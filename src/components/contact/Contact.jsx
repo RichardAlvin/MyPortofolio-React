@@ -37,19 +37,19 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Let's discuss your project</h1>
+          <h1 className="c-title">Have a question? please use message form</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +1 1234 556 75
+              Belum saya taruk takut di spam
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              contact@lama.dev
+              richardalvinpratama06@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              245 King Street, Touterie Victoria 8520 Australia
+              Kimaja Street, No.88, Jambi
             </div>
           </div>
         </div>

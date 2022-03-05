@@ -1,4 +1,5 @@
 import "./about.css";
+import aboutme from "../../img/about.jpg";
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src={aboutme}
             alt=""
             className="a-img"
           />
@@ -16,16 +17,12 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+        I'm a person who is very enthusiastic about learning and easy to adapt. Enthusiastic about Cloud Computing, Backend Programming, DevOps, and IoT.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          I am studying at a Multimedia Nusantara University and currently taking the Bangkit 2022 program (Cloud Computing Path). I have participated in several campus organizations, such as the decoration division, mentors, academic coordinators, vice chairpersons and others. I have also been a laboratory assistant for 6 months.
         </p>
-        <div className="a-award">
+        {/* <div className="a-award">
         
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
@@ -34,7 +31,7 @@ const About = () => {
               and fugit.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

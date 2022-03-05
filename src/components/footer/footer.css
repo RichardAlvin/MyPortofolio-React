@@ -1,0 +1,12 @@
+.footer {
+  background-color: #59b256;
+  height: 80px;
+  text-align: center;
+  color: black;
+  margin-top: 30px;
+}
+
+.footer h4 {
+  padding-top: 12px;
+  margin: 0;
+}
