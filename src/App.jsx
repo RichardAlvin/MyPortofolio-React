@@ -5,6 +5,7 @@ import Intro from "./components/intro/Intro";
 import ProductList from "./components/productList/ProductList";
 import Toggle from "./components/toggle/Toggle";
 import Footer from "./components/footer/Footer";
+import Skill from "./components/skill/Skill";
 // import Navbar from "./components/navbar/Navbar";
 import { ThemeContext } from "./context";
 
@@ -21,6 +22,7 @@ const App = () => {
       <Toggle />
       <Intro />
       <About />
+      <Skill />
       <ProductList />
       <Contact />
       <Footer />
