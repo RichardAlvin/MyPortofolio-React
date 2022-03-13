@@ -20,7 +20,7 @@ const About = () => {
         I'm a person who is very enthusiastic about learning and easy to adapt. Enthusiastic about Cloud Computing, Backend Programming, DevOps, and IoT.
         </p>
         <p className="a-desc">
-          I am studying at a Multimedia Nusantara University and currently taking the Bangkit 2022 program (Cloud Computing Path). I have participated in several campus organizations, such as the decoration division, mentors, academic coordinators, vice chairpersons and others. I have also been a laboratory assistant for 6 months.
+          I am studying at a Multimedia Nusantara University and currently taking the Bangkit 2022 program (Cloud Computing Path). I have participated in several campus organizations and many positions that I have tried, such as the Volunteer, Event Coordination, Decoration Division, Mentors, Academic Coordinators, Vice Chairpersons (GEAR and ACES). I have also been a laboratory assistant for 6 months.
         </p>
         {/* <div className="a-award">
         

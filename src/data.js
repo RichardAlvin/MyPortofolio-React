@@ -1,32 +1,58 @@
+import automaticFaucet from "./img/project/automaticFaucet.jpg";
+import ghorilard from "./img/project/Ghorilard.jpg";
+import rapmory from "./img/project/rapmory.png";
+import hotelMania from "./img/project/hotelMania.png";
+import cardProfile from "./img/project/cardProfile.png";
+import rapCalcu from "./img/project/rapCalcu.png";
+import rupiahDetect from "./img/project/rupiahDetect.png";
+import lift from "./img/project/lift.png";
+
+
+
 export const products = [
   {
     id: 1,
-    img: "",
-    link: "http://lama.dev",
+    img: automaticFaucet,
+    link: "https://github.com/RichardAlvin/automatic-faucet",
   },
   {
     id: 2,
-    img: "",
-    link: "http://lama.dev",
+    img: ghorilard,
+    link: "https://github.com/RichardAlvin/end-device-ghorilard",
   },
   {
     id: 3,
-    img: "",
-    link: "http://lama.dev",
+    img: rapmory,
+    link: "https://github.com/RichardAlvin/RapMory",
   },
   {
     id: 4,
-    img: "",
-    link: "http://lama.dev",
+    img: hotelMania,
+    link: "https://github.com/RichardAlvin/hotel-mania",
   },
   {
     id: 5,
-    img: "",
-    link: "http://lama.dev",
+    img: cardProfile,
+    link: "https://github.com/RichardAlvin/my-card-profile",
   },
   {
     id: 6,
+    img: rapCalcu,
+    link: "https://github.com/RichardAlvin/RAPCalculator",
+  },
+  {
+    id: 7,
+    img: rupiahDetect,
+    link: "https://github.com/RichardAlvin/RupiahDetector",
+  },
+  {
+    id: 8,
+    img: lift,
+    link: "",
+  },  
+  {
+    id: 9,
     img: "",
-    link: "http://lama.dev",
+    link: "https://github.com/RichardAlvin/RupiahDetector",
   },
 ];
