@@ -6,7 +6,7 @@ import cardProfile from "./img/project/cardProfile.png";
 import rapCalcu from "./img/project/rapCalcu.png";
 import rupiahDetect from "./img/project/rupiahDetect.png";
 import lift from "./img/project/lift.png";
-
+import RedteamChatApp from "./img/project/redteamChatApp.png";
 
 
 export const products = [
@@ -52,7 +52,7 @@ export const products = [
   },  
   {
     id: 9,
-    img: "",
-    link: "https://github.com/RichardAlvin/RupiahDetector",
+    img: RedteamChatApp,
+    link: "https://github.com/RichardAlvin/IOH-chat-app",
   },
 ];
